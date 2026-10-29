@@ -1,0 +1,13 @@
+package com.plottheirfuture.plottheirfuture_backend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PlottheirfutureBackendApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PlottheirfutureBackendApplication.class, args);
+	}
+
+}
